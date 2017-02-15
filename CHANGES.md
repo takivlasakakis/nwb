@@ -24,7 +24,7 @@
 - autoprefixer: v6.7.0 → [v6.7.2](https://github.com/postcss/autoprefixer/blob/master/CHANGELOG.md#672)
 - babel-cli: v6.22.2 → [v6.23.0][babel6230]
 - babel-core: v6.22.1 → [v6.23.1](https://github.com/babel/babel/blob/master/CHANGELOG.md)
-- babel-loader: v6.2.10 → [v6.3.0](https://github.com/babel/babel-loader/releases/tag/v6.3.0) - slight performance improvement
+- babel-loader: v6.2.10 → [v6.3.1](https://github.com/babel/babel-loader/blob/master/CHANGELOG.md#v631) - slight performance improvement
 - babel-plugin-inferno: v1.7.0 → [v1.9.0](https://github.com/infernojs/babel-plugin-inferno/releases) - new optimisations
 - babel-plugin-istanbul: v3.1.2 → [v4.0.0](https://github.com/istanbuljs/babel-plugin-istanbul/blob/master/CHANGELOG.md#400-2017-02-07) - drop support for Node.js v0.10 and v0.12
 - babel-plugin-transform-react-jsx: v6.22.0 → [v6.23.0][babel6230]
